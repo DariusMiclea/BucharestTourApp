@@ -1,0 +1,304 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"nameEn": "The Arch Of Triumph",
+			"nameRo": "Arcul de Triumf",
+			"lat": "44.467166",
+			"lon": "26.078116",
+			"descriptionEn": "The Arch Of Triumph is located in the northern part of Bucharest, on the Kiseleff Road. The first, wooden, triumphal arch was built hurriedly, after Romania gained its independence (1878), so that the victorious troops could march under it. Another arch with concrete skeleton and plaster exterior of elaborate sculptures and decoration designed by Petre Antonescu was built on the same site after World War I in 1922. The arch exterior, which had seriously decayed, was replaced in 1935 by the current much more sober Neoclassical design, more closely modelled in the Arc de Triomphe in Paris. The new arch, also designed by Petre Antonescu and executed in stone, was inaugurated on 1 December 1936.",
+			"descriptionRo": "Arcul de Triumf este un monument situat in partea de nord a Bucurestiului, in sectorul 1, la intersectia soselei Kiseleff cu bulevardele Constantin Prezan, Alexandru Averescu si Alexandru Constantinescu. Monumentul, proiectat de Petre Antonescu, a fost construit in perioada 1921-1922, renovat in perioada 1935-1936, si din nou renovat incepand din 2014. El comemoreaza victoria Romaniei in Primul Razboi Mondial.",
+			"score": "80"
+		},
+		{
+			"id": "2",
+			"nameEn": "Romanian Athenaeum",
+			"nameRo": "Ateneul Roman",
+			"lat": "44.441358",
+			"lon": "26.097301",
+			"descriptionEn": "The Romanian Athenaeum (Romanian: Ateneul Roman) is a concert hall in the center of Bucharest, Romania and a landmark of the Romanian capital city. Opened in 1888, the ornate, domed, circular building is the city's main concert hall and home of the 'George Enescu' Philharmonic and of the George Enescu annual international music festival.",
+			"descriptionRo": "Ateneul Roman este o sala de concerte din Bucuresti, situata pe Calea Victoriei, in Piata George Enescu (in partea nordica a Pietei Revolutiei). Cladirea, care este realizata intr-o combinatie de stil neoclasic cu stil eclectic, a fost construita intre 1886 si 1888, dupa planurile arhitectului francez Albert Galleron. In prezent, adaposteste si sediul Filarmonicii George Enescu.",
+			"score": "100"
+		},
+		{
+			"id": "3",
+			"nameEn": "Central University Library, Bucharest",
+			"nameRo": "Biblioteca Centrala Universitara",
+			"lat": "44.440325",
+			"lon": "26.097935",
+			"descriptionEn": "The Central University Library of Bucharest (Romanian: Biblioteca Centrala Universitara) is a library in central Bucharest, located across the street from the National Museum of Art of Romania. When the University of Bucharest was created in 1864, there was no central university library; this role was played by the Central State Library of Bucharest until 1895.",
+			"descriptionRo": "Biblioteca Centrala Universitara Carol I din Bucuresti, prescurtat BCU, este cea mai veche biblioteca universitara din Bucuresti, situata in Palatul Fundatiei Universitare Carol I, sediul Fundatiilor Regale.",
+			"score": "60"
+		},
+		{
+			"id": "4",
+			"nameEn": "Stavropoleos Monastery",
+			"nameRo": "Biserica Stavropoleos",
+			"lat": "44.431911",
+			"lon": "26.098956",
+			"descriptionEn": "Stavropoleos Monastery (Romanian: Manastirea Stavropoleos), also known as Stavropoleos Church (Romanian: Biserica Stavropoleos) during the last century when the monastery was dissolved, is an Eastern Orthodox monastery for nuns in central Bucharest, Romania. Its church is built in Brancovenesc style. The patrons of the church (the saints to whom the church is dedicated) are St. Archangels Michael and Gabriel. The name Stavropoleos is the genitive case of Stavropolis (Greek, 'The city of the Cross'). One of the monastery's constant interests is Byzantine music, expressed through its choir and the largest collection of Byzantine music books in Romania.",
+			"descriptionRo": "Biserica Stavropoleos este o biserica ortodoxa, construita in stil brancovenesc, in centrul orasului Bucuresti. Hramul bisericii este Sf. Arhangheli Mihail si Gavriil. Numele Stavropoleos este forma romaneasca a cuvantului grecesc Stauropolis, care se traduce prin Orasul Crucii.",
+			"score": "50"
+		},
+		{
+			"id": "5",
+			"nameEn": "Victory Avenue",
+			"nameRo": "Calea Victoriei",
+			"lat": "44.441989",
+			"lon": "26.094255",
+			"descriptionEn": "Calea Victoriei (Victory Avenue) is a major avenue in central Bucharest. It leads from Splaiul Independentei (which runs parallel to the Dambovita River) to the north and then northwest up to Piata Victoriei, where Soseaua Kiseleff continues north.",
+			"descriptionRo": "Calea Victoriei este una din cele mai importante artere situata in centrul Bucurestiului. Se intinde din Piata Natiunile Unite (de la intersectia cu Splaiul Independentei) pana la Piata Victoriei si are o lungime de 2.700 de metri.",
+			"score": "60"
+		},
+		{
+			"id": "6",
+			"nameEn": "The Beer Wagon",
+			"nameRo": "Caru’ cu Bere",
+			"lat": "44.432094",
+			"lon": "26.098121",
+			"descriptionEn": "Caru' cu Bere (aka Carul cu Bere; 'the beer wagon') is a bar and restaurant on Stavropoleos Street in the Lipscani district of Bucharest, Romania, opened in 1879 and moved to the current location, a gothic revival building designed by Austrian architect Siegfrid Kofczinsky, in 1899. It is noted for its distinctive art nouveau interior decoration.",
+			"descriptionRo": "Carul cu Bere este o berarie celebra din Bucuresti deschisa in anul 1879.",
+			"score": "30"
+		},
+		{
+			"id": "7",
+			"nameEn": "Anton Pann Memorial House Bucharest",
+			"nameRo": "Casa memoriala Anton Pann",
+			"lat": "44.429279",
+			"lon": "26.113043",
+			"descriptionEn": "Anton Pann (1794 Sliven Bulgaria - 1854, Bucharest) was a poet, composer and professor of religious music, folklore, literary, publicist, home Aromanian, music composer of the Romanian national anthem. Anton Pann museum was designed to illustrate the interior of a modest fair housing in the mid-nineteenth century, there was submitted pieces of furniture (sofa, bookcase, table, chairs), decorative tin, brass, pewter and portraits of personalities of the era: that of mother including Meletina, abbot of the monastery the typographer From a Wood and John Popovich, who had connections with the writer's life and work.",
+			"descriptionRo": "Casa Memoriala Anton Pann este un muzeu judetean din Ramnicu Valcea, amplasat in Str. Stirbei Voda nr. 18. Casa care adaposteste expozitia memoriala Anton Pann, este un monument de arhitectura urbana, construit la jumatatea secolului al XVIII-lea, avand foisor si pivnita.",
+			"score": "50"
+		},
+		{
+			"id": "8",
+			"nameEn": "Ion Minulescu Memorial House Bucharest",
+			"nameRo": "Casa memoriala Ion Minulescu",
+			"lat": "44.434764",
+			"lon": "26.067068",
+			"descriptionEn": "The Ion Minulescu and Claudia Millian Memorial House was founded in 1991, when the daughter of Ion Minulescu left the former residence of the Minulescu family to the National Museum of the Romanian Literature in order to be turned into a memorial house. What is striking about this memorial house is the consistent collection of works of art. Some of the highlights of this collection refer to paintings by Dimitrie Ghiata, Alexandru Ciucurescu, Henri Catargi, Margareta Sterian, complemented by sculptural works by Claudia Millian, Oscar Han, Cornel Medrea.",
+			"descriptionRo": "Apartamentul in care se afla in prezent Casa memoriala Ion Minulescu si Claudia Millian a fost achizitionat de familia Minulescu in anul 1934. In 1991, Mioara Laurentia Minulescu, fiica lui Ion Minulescu, artist plastic, a lasat apartamentul si patrimoniul aflat in el, prin testament, Muzeului National al Literaturii Romane.",
+			"score": "30"
+		},
+		{
+			"id": "9",
+			"nameEn": "Bucharest Old Town",
+			"nameRo": "Centrul Istoric",
+			"lat": "44.431627",
+			"lon": "26.100479",
+			"descriptionEn": "The Old Town is located in the center of Bucharest, Romania and is popular throughout the world for its nightlife.",
+			"descriptionRo": "Centrul istoric al Bucurestiului reprezinta o zona centrala a capitalei, cu o suprafata de aproximativ 0,50 km², situata la extremitatea vestica a sectorului 3.",
+			"score": "70"
+		},
+		{
+			"id": "10",
+			"nameEn": "The Fire Tower",
+			"nameRo": "Foisorul de Foc",
+			"lat": "44.440311",
+			"lon": "26.120783",
+			"descriptionEn": "Foisorul de Foc (literally The Fire Tower) is a 42-metre high building in Bucharest, Romania, between Obor, Calea Mosilor and Nerva-Traian. It was used in the past as an observation tower by the firemen. It was built in 1890, two years after the previous watchtower, Turnul Coltei, built in 1715, was demolished. The plans were made by George Mandrea, back then the chief-architect of Bucharest.",
+			"descriptionRo": "Foisorul de Foc este o cladire de 42 metri inaltime din Bucuresti aflata intre Obor, Calea Mosilor si Nerva-Traian, mai precis: la intersectia strazii Traian cu bulevardul Regele Ferdinand, in imediata apropiere a bisericii Oborul-Vechi. In trecut servea drept turn de observatie pentru apararea impotriva incendiilor.",
+			"score": "40"
+		},
+		{
+			"id": "11",
+			"nameEn": "Bucharest Botanical Garden",
+			"nameRo": "Gradina Botanica",
+			"lat": "44.437229",
+			"lon": "26.062645",
+			"descriptionEn": "The Bucharest Botanical Garden (Romanian: Gradina Botanica din Bucuresti), now named after its founder, Dimitrie Brandza, is located in the Cotroceni neighbourhood of Bucharest, Romania. It has a surface of 17.5 hectares (including 4,000 m² of greenhouses), and has more than 10,000 species of plants.",
+			"descriptionRo": "Gradina Botanica Dimitrie Brandza a Universitatii din Bucuresti, care poarta numele fondatorului ei incepand din anul 1994, este situata in cartierul Cotroceni din Bucuresti, Romania. Acopera o suprafata de 17,5 hectare (inclusiv 4.000 m² de sere) si are peste 10.000 specii de plante.",
+			"score": "60"
+		},
+		{
+			"id": "12",
+			"nameEn": "Zoo Baneasa",
+			"nameRo": "Gradina Zoologica Baneasa",
+			"lat": "44.517315",
+			"lon": "26.104533",
+			"descriptionEn": "Zoo Baneasa is a zoo in Bucharest, Romania, located in a northern district of the city, called Baneasa. The park was founded in 1955 as a service of the Municipal Household Section of the People's Council of the Capital",
+			"descriptionRo": "Gradina Zoologica Bucuresti se afla in sectorul 1 din Bucuresti. Parcul a fost infiintat in anul 1955 sub forma unui serviciu al Sectiunii Gospodariei Comunale din cadrul Sfatului Popular al Capitalei.",
+			"score": "40"
+		},
+		{
+			"id": "13",
+			"nameEn": "The Linden Tree Inn",
+			"nameRo": "Hanul cu Tei",
+			"lat": "44.432204",
+			"lon": "26.102121",
+			"descriptionEn": "Hanul cu Tei ('The Linden tree Inn') is one of the few still standing old inns in central Bucharest, Romania. It was built in 1833 by Anastasie Hagi Gheorghe Polizu and Stefan Popovici, on the trading street of Lipscani. It was also called the Bezesten de pe Ulita cea mare a Marchitanilor ('The Inn on the Wide Street of the Merchants').",
+			"descriptionRo": "Hanul cu Tei este unul din putinele hanuri vechi care mai exista din centrul Bucurestiului.",
+			"score": "20"
+		},
+		{
+			"id": "14",
+			"nameEn": "Manuc's Inn",
+			"nameRo": "Hanul lui Manuc",
+			"lat": "44.429618",
+			"lon": "26.101906",
+			"descriptionEn": "Manuc's Inn (Romanian: Hanul lui Manuc) is the oldest operating hotel building in Bucharest, Romania. It also houses a popular restaurant, several bars, a coffee-house, and (facing the street) several stores and an extensive bar. Its massive, multiply balconied courtyard hosted many performances and fairs and was a popular place for Romanian Television crews to shoot folkloric performances. The hotel and restaurant were refurbished in 2007.",
+			"descriptionRo": "Hanul Manuc (sau Hanul lui Manuc), este unul dintre cele mai importante obiective turistice din Bucuresti, monument istoric, loc de petrecere a timpului liber, in restaurantele, cafenelele si magazinele pe care le gazduieste in zilele noastre. Se prevede, ca in viitor, prin eforturile mostenitorilor, sa-si recapete si menirea de hotel.",
+			"score": "40"
+		},
+		{
+			"id": "15",
+			"nameEn": "Museum of Art Collections",
+			"nameRo": "Muzeul Colectiilor de Arta",
+			"lat": "44.444954",
+			"lon": "26.091179",
+			"descriptionEn": "The Museum of Art Collections (Romanian: Muzeului Colectiilor de Arta) is a branch of the National Museum of Art of Romania and is situated in Bucharest. It is located on Calea Victoriei no.111 at the corner of Calea Grivitei, in Romanit Palace, the first section of which was built in 1822.",
+			"descriptionRo": "Muzeul Colectiilor de Arta este o filiala a Muzeului National de Arta al Romaniei, cu sediul in Calea Victoriei nr.111, Bucuresti, in fostul Palat Romanit.",
+			"score": "60"
+		},
+		{
+			"id": "16",
+			"nameEn": "Cotroceni National Museum",
+			"nameRo": "Muzeul Cotroceni",
+			"lat": "44.434253",
+			"lon": "26.062579",
+			"descriptionEn": "The museum of the presidential residence has been set up in a representative late 19 century building: The Palace of Cotroceni. With a 350 year history, it is one of the most beautiful museum of Bucharest but also an active cultural center, hosting numerous events: art galleries, book launches, poetry readings and much more. For a quiet and refined afternoon away from the commotion of the Old Town this is the perfect place to visit.",
+			"descriptionRo": "Muzeul National Cotroceni este un muzeu din Bucuresti, Romania, situat in Palatul Cotroceni, unde pot fi vizitate spatii din fosta manastire de la Cotroceni si fostul palat regal de la Cotroceni, unde au locuit regele Ferdinand si regina Maria, precum si colectiile de arta veche decorativa europeana.",
+			"score": "90"
+		},
+		{
+			"id": "17",
+			"nameEn": "Museum of Recent Art",
+			"nameRo": "Muzeul de Arta Recenta",
+			"lat": "44.467973",
+			"lon": "26.089343",
+			"descriptionEn": "The first private art museum to open in Bucharest for almost 100 years. Set over five levels, the permanent exhibition includes a full retrospective of Romanian contemporary art from the 1960s to the present day. It is particularly insightful when dealing withe the various risks and compromises artists were forced to make in order to breakaway from socialist realism. There are also regular temporary exhibitions featuring avant garde artists from around the world.",
+			"descriptionRo": "Muzeul de Arta Recenta prezinta publicului peste 150 de opere, expuse intr-o cladire de 1200 mp desfasurata pe cinci niveluri, dotata cu toate spatiile, echipamentele, serviciile, programele si cadrele de specialitate cerute de exigentele muzeografice actuale.",
+			"score": "70"
+		},
+		{
+			"id": "18",
+			"nameEn": "National Museum of Contemporary Art",
+			"nameRo": "Muzeul National de Arta Contemporana",
+			"lat": "44.428097",
+			"lon": "26.086535",
+			"descriptionEn": "The National Museum of Contemporary Art (Muzeul National de Arta Contemporana, or MNAC, in Romanian) is a contemporary art museum in Bucharest, Romania. The museum is located in a new glass wing of the Palace of the Parliament, one of the largest administrative buildings in the world.",
+			"descriptionRo": "Muzeul National de Arta Contemporana (cunoscut si sub acronimul MNAC) este un muzeu de arta contemporana din Bucuresti, Romania. Muzeul se gaseste in noua aripa de sticla a Palatului Parlamentului, una dintre cele mai largi cladiri administrative din lume.",
+			"score": "100"
+		},
+		{
+			"id": "19",
+			"nameEn": "Grigore Antipa National Museum of Natural History",
+			"nameRo": "Muzeul National de Istorie Naturala Grigore Antipa",
+			"lat": "44.453251",
+			"lon": "26.084681",
+			"descriptionEn": "The Grigore Antipa National Museum of Natural History (Romanian: Muzeul National de Istorie Naturala 'Grigore Antipa') is a natural history museum, located in Bucharest, Romania. It was originally established as the National Museum of Natural History on 3 November 1834. It was renamed in 1933 after Grigore Antipa, who administered the museum for 51 years. It was reopened in 2011 after a $13 million renovation.",
+			"descriptionRo": "Muzeul National de Istorie Naturala Grigore Antipa este un muzeu din Bucuresti, amplasat in Soseaua Kiseleff nr. 1. Patrimoniul muzeului este format din peste 2 milioane de piese, grupate in diferite colectii zoologice, paleontologice, de minerale si roci si etnografice.",
+			"score": "90"
+		},
+		{
+			"id": "20",
+			"nameEn": "Romanian Peasant Museum",
+			"nameRo": "Muzeul Taranului Roman",
+			"lat": "44.454431",
+			"lon": "26.084153",
+			"descriptionEn": "The National Museum of the Romanian Peasant (Romanian: Muzeul National al Taranului Roman) is a museum in Bucharest, Romania, with a collection of textiles (especially costumes), icons, ceramics, and other artifacts of Romanian peasant life. One of Europe's leading museums of popular arts and traditions, it was designated 'European Museum of the Year' for 1996.",
+			"descriptionRo": "Muzeul National al Taranului Roman este unul dintre cele mai diversificate muzee din familia europeana a Muzeelor de Arte si Traditii Populare. Este situat in Bucuresti pe Soseaua Kiseleff nr.3, langa Piata Victoriei. Cladirea unde se afla actualul muzeu a fost construita in perioada 1912-1941, dupa planurile arhitectului N. Ghica-Budesti.",
+			"score": "100"
+		},
+		{
+			"id": "21",
+			"nameEn": "Zambaccian Museum",
+			"nameRo": "Muzeul Zambaccian",
+			"lat": "44.460971",
+			"lon": "26.091009",
+			"descriptionEn": "The Zambaccian Museum in Bucharest, Romania is a museum in the former home of Krikor Zambaccian (1889 –1962), a businessman and art collector. The museum was founded in the Dorobanti neighbourhood in 1947, closed by the Ceausescu regime in 1977, and re-opened in 1992. It is now a branch of The National Museum of Art of Romania. Its collection includes works by Romanian artists—including a masterful portrait of Zambaccian himself by Corneliu Baba—and works by several French impressionists. It is located not far from Piata Dorobantilor on a street now renamed after Zambaccian.",
+			"descriptionRo": "Muzeul Zambaccian este un muzeu de arta din Bucuresti, aflat in apropiere de Piata Dorobantilor, pe strada Muzeul Zambaccian, nr. 21A. Este situat in fosta casa a lui Krikor Zambaccian (1889 -1962), un om de afaceri roman de etnie armeana, reputat critic si colectionar de arta. Muzeul a fost fondat in 1947, piesele expuse apartinand impresionantei colectii de arta donate de Krikor Zambaccian statului roman, impreuna cu cladirea.",
+			"score": "60"
+		},
+		{
+			"id": "22",
+			"nameEn": "Palace of the Parliament",
+			"nameRo": "Palatul Parlamentului",
+			"lat": "44.427641",
+			"lon": "26.087394",
+			"descriptionEn": "The Palace of the Parliament (Romanian: Palatul Parlamentului) is the seat of the Parliament of Romania, located atop Dealul Spirii in Bucharest, the national capital. The Palace has a height of 84 metres (276 ft), a floor area of 365,000 square metres (3,930,000 sq ft) and a volume of 2,550,000 cubic metres (90,000,000 cu ft). The Palace of the Parliament is the heaviest building in the world, weighing about 4,098,500,000 kilograms (9.0356×109 lb).",
+			"descriptionRo": "Palatul Parlamentului din Bucuresti, Romania (cunoscut inainte de revolutie sub numele de Casa Republicii sau Casa Poporului), masoara 270 m pe 240 m, 86 m inaltime, si 92 m sub pamant realizat in spiritul arhitecturii realist socialiste.",
+			"score": "100"
+		},
+		{
+			"id": "23",
+			"nameEn": "Universul Palace",
+			"nameRo": "Palatul Universul",
+			"lat": "44.435676",
+			"lon": "26.094672",
+			"descriptionEn": "Known as Palatul Universul (Universul Palace) the building used to host the Universul newspaper back in 1930. The iconic building borders one of Bucharest’s most beautiful parks, Cismigiu.",
+			"descriptionRo": "Palatul Universul este o cladire din Bucuresti, aflata pe strada Ion Brezoianu 23, in care a functionat in prima jumatate a secolului XX redactia ziarului Universul. Construita de initiatorul acestuia, ziaristul italian Cazzavillan, candva inainte de 1884, prima cladire, numita azi corpul C (casa Cazzavilan), a devenit in timp neincapatoare pentru redactia ziarului, cel mai mare din Romania la momentul respectiv.",
+			"score": "50"
+		},
+		{
+			"id": "24",
+			"nameEn": "Cismigiu Park",
+			"nameRo": "Parcul Cismigiu",
+			"lat": "44.436555",
+			"lon": "26.091102",
+			"descriptionEn": "Cismigiu Park is a vast English-style garden with fountains, monuments and a popular boating lake where the landmark Monte Carlo restaurant stands on a central island. Elegant pre-communist buildings line nearby Regina Maria boulevard. The 19th-century Gambrinus Brewery serves local beer and traditional food, and surrounding streets have snack bars, pubs and stylish, low-key nightclubs.",
+			"descriptionRo": "Gradina Cismigiu este cea mai veche gradina publica din Bucuresti. Este asezata in centrul orasului, are o suprafata de circa 16 hectare si este marginita de doua artere importante: bulevardul Regina Elisabeta si bulevardul Schitu Magureanu.",
+			"score": "40"
+		},
+		{
+			"id": "25",
+			"nameEn": "King Michael I Park",
+			"nameRo": "Parcul Regele Mihai I al Romaniei",
+			"lat": "44.469145",
+			"lon": "26.083826",
+			"descriptionEn": "King Michael I Park (Romanian: Parcul 'Regele Mihai I'), formerly Herastrau Park (Romanian: Parcul Herastrau), is a large park on the northern side of Bucharest, Romania, around Lake Herastrau, one of the lakes formed by the Colentina River.",
+			"descriptionRo": "Parcul Regele Mihai I al Romaniei (in trecut Parcul Carol al II-lea, Parcul National, Parcul I.V. Stalin si Parcul Herastrau) este un parc de mare intindere al Bucurestiului, situat in partea de nord a orasului, delimitat de B-dul Prezan Constantin, B-dul Aviatorilor, Sos.Nordului, Str. Elena Vacarescu, Sos. Bucuresti-Ploiesti si Soseaua Regele Mihai I.",
+			"score": "50"
+		},
+		{
+			"id": "26",
+			"nameEn": "Vacaresti Nature Park",
+			"nameRo": "Parcul Natural Vacaresti",
+			"lat": "44.399522",
+			"lon": "26.133205",
+			"descriptionEn": "Vacaresti Nature Park (Romanian: Parcul Natural Vacaresti) is a nature park in Bucharest, Romania, containing the wetlands surrounding Lake Vacaresti.",
+			"descriptionRo": "Parcul Natural Vacaresti reprezinta cel mai salbatic loc din Bucuresti, situat la doar cateva minute de mers pe jos de centrul Capitalei. Fosta groapa de gunoi, rezervatia este cunoscuta multora drept Delta Vacaresti, Delta Bucurestiului, sau Delta dintre blocuri, insa aceasta denumire este oarecum fortata.",
+			"score": "30"
+		},
+		{
+			"id": "27",
+			"nameEn": "Unification Square",
+			"nameRo": "Piata Unirii",
+			"lat": "44.427148",
+			"lon": "26.102439",
+			"descriptionEn": "Piata Unirii (Unification Square or Union Square in English) is one of the largest squares in central Bucharest, located in the center of the city where Sectors 1, 2, 3, and 4 meet. It is bisected by Unirii Boulevard, originally built during the Communist era as the Boulevard of the Victory of Socialism, and renamed after the Romanian Revolution.",
+			"descriptionRo": "Piata Unirii este situata in sectorul 3 din Bucuresti, la intersectia dintre Bd. I. C. Bratianu, Bd. Unirii, Bd. D. Catemir, Bd. Regina Maria, Bd. C. Coposu si Splaiul Unirii.",
+			"score": "40"
+		},
+		{
+			"id": "28",
+			"nameEn": "Choral Temple",
+			"nameRo": "Templul Coral",
+			"lat": "44.431066",
+			"lon": "26.106691",
+			"descriptionEn": "The Choral Temple (Romanian: Templul Coral) is a synagogue located in Bucharest, Romania. It is a copy of Vienna's Leopoldstadt-Tempelgasse Great Synagogue, which was raised in 1855-1858. It was designed by Enderle and Freiwald and built between 1864 - 1866. The synagogue was devastated by the far-right Legionaries, but was then restored after World War II, in 1945.",
+			"descriptionRo": "Templul Coral din Bucuresti este o sinagoga a Comunitatii Evreilor din Bucuresti, fiind cel mai mare lacas de cult mozaic din oras. Edificiul a fost construit intre anii 1864-1866, fiind renovat in 1932 si 1945. Este situat pe Strada Sfanta Vineri nr. 9 din sectorul 3.",
+			"score": "60"
+		},
+		{
+			"id": "29",
+			"nameEn": "Therme",
+			"nameRo": "Therme",
+			"lat": "44.605119",
+			"lon": "26.085419",
+			"descriptionEn": "Located North of Bucharest, just 10 minutes away from the city, Therme Bucuresti is a wellness concept for a modern lifestyle, dedicated to your well-being. Our concern for a balanced life translates into a holiday ambiance designed to help you fully detach from the busy city life.",
+			"descriptionRo": "Therme Bucuresti este o adevarata oaza cu plante exotice, piscine cu valuri si tobogane cu apa termala de care poti sa bucuri chiar daca afara sunt minus 25 de grade. La Therme, temperatura aerului este intotdeauna de 29-30 de grade, iar a apei, de 30-33 de grade, ideala pentru distractie si balaceala.",
+			"score": "30"
+		},
+		{
+			"id": "30",
+			"nameEn": "University of Bucharest",
+			"nameRo": "Universitatea din Bucuresti",
+			"lat": "44.435645",
+			"lon": "26.101186",
+			"descriptionEn": "The University of Bucharest (Romanian: Universitatea din Bucuresti), commonly known after its abbreviation UB in Romania, is a public university founded in 1864 by decree of Prince Alexandru Ioan Cuza to convert the former Saint Sava Academy into the current University of Bucharest, making it the second oldest modern university in Romania. It is one of the five members of the Universitaria Consortium (the group of elite Romanian universities).",
+			"descriptionRo": "Universitatea din Bucuresti este o universitate de stat din Bucuresti si una dintre cele mai prestigioase institutii de invatamant superior din Romania. Fondata in 1864, Universitatea din Bucuresti este a doua universitate moderna a Romaniei, dupa Universitatea din Iasi.",
+			"score": "80"
+		}
+	]
+}
